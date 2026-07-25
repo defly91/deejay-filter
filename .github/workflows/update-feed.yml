@@ -2,7 +2,7 @@ name: Update podcast feeds
 
 on:
   schedule:
-    - cron: "0 14 * * *"  # 14:00 UTC daily (16:00 Italian time)
+    - cron: "0 9,11,13 * * *"  # 09:00, 11:00, 13:00 UTC = 11:00, 13:00, 15:00 ITA
   workflow_dispatch:       # manual trigger
 
 permissions:

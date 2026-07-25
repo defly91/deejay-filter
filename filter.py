@@ -8,6 +8,7 @@ import xml.etree.ElementTree as ET
 import urllib.request
 import sys
 import os
+import html
 from datetime import datetime, timezone
 
 FEEDS = [
@@ -24,6 +25,10 @@ FEEDS = [
         "output": "il-volo-del-mattino.xml",
     },
 ]
+
+def escape_xml_attr(s):
+    return html.escape(s, quote=True)
+
 
 ITUNES_NS = "http://www.itunes.com/dtds/podcast-1.0.dtd"
 ATOM_NS = "http://www.w3.org/2005/Atom"
@@ -134,7 +139,7 @@ def build_filtered_rss(channel, feed_config, kept_items):
       <description><![CDATA[{item_desc}]]></description>
       <content:encoded><![CDATA[{item_content}]]></content:encoded>
       <pubDate>{item_pub}</pubDate>
-      <enclosure url="{enc_url}" length="{enc_len}" type="{enc_type}" />
+      <enclosure url="{escape_xml_attr(enc_url)}" length="{enc_len}" type="{enc_type}" />
       <guid isPermaLink="{guid_is_perma}"><![CDATA[{guid_text}]]></guid>
       <itunes:duration>{item_dur}</itunes:duration>
       <itunes:episodeType>{item_ep_type}</itunes:episodeType>
@@ -146,11 +151,11 @@ def build_filtered_rss(channel, feed_config, kept_items):
         if item_season:
             items_xml += f'      <itunes:season>{item_season}</itunes:season>\n'
         if item_image:
-            items_xml += f'      <itunes:image href="{item_image}" />\n'
+            items_xml += f'      <itunes:image href="{escape_xml_attr(item_image)}" />\n'
         if media_url:
-            items_xml += f'      <media:content url="{media_url}" type="audio/mpeg">\n'
+            items_xml += f'      <media:content url="{escape_xml_attr(media_url)}" type="audio/mpeg">\n'
             if media_player:
-                items_xml += f'        <media:player url="{media_player}" />\n'
+                items_xml += f'        <media:player url="{escape_xml_attr(media_player)}" />\n'
             items_xml += f'      </media:content>\n'
         items_xml += "    </item>\n"
 
@@ -167,7 +172,7 @@ def build_filtered_rss(channel, feed_config, kept_items):
       <itunes:name><![CDATA[{owner_name}]]></itunes:name>
       <itunes:email>{owner_email}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{image_url}" />
+    <itunes:image href="{escape_xml_attr(image_url)}" />
     <itunes:category text="{category}" />
     <itunes:explicit>{explicit}</itunes:explicit>
     <itunes:type>episodic</itunes:type>
