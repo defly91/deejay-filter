@@ -1,0 +1,36 @@
+name: Update podcast feeds
+
+on:
+  schedule:
+    - cron: "0 14 * * *"  # 14:00 UTC daily (16:00 Italian time)
+  workflow_dispatch:       # manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run filter
+        run: python filter.py .
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add *.xml
+          if git diff --cached --quiet; then
+            echo "No changes to feeds."
+          else
+            git commit -m "Update podcast feeds $(date -u +%Y-%m-%d)"
+            git push
+          fi
