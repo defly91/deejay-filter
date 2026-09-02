@@ -5,7 +5,7 @@
     <link>https://www.deejay.it/programmi/deejay-chiama-italia/</link>
     <description><![CDATA[Il meglio di Deejay Chiama Italia. Puoi seguire Linus e Nicola con Deejay Chiama Italia ogni giorno dalle 10 alle 12 contemporaneamente in radio, su deejay.it e sul tuo dispositivo mobile.]]></description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2026 13:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:12:45 +0000</lastBuildDate>
     <itunes:author><![CDATA[Radio Deejay]]></itunes:author>
     <itunes:owner>
       <itunes:name><![CDATA[Radio Deejay]]></itunes:name>
@@ -15,6 +15,22 @@
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title><![CDATA[Puntata del 02/09/2026]]></title>
+      <description><![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <pubDate>Wed, 02 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/cb736399-e563-4e12-b664-b4b900af4a5c/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" length="94892837" type="audio/mpeg" />
+      <guid isPermaLink="false"><![CDATA[https://www.deejay.it/programmi/deejay-chiama-italia/puntate/deejay-chiama-italia-del-02-09-2026-2/]]></guid>
+      <itunes:duration>5928</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Radio Deejay</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/image.jpg?t=1644919652&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/cb736399-e563-4e12-b664-b4b900af4a5c/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/deejay-chiama-italia/puntata-del-02-09-2026/embed?media=Audio" />
+      </media:content>
+    </item>
     <item>
       <title><![CDATA[Puntata del 01/09/2026]]></title>
       <description><![CDATA[Oggi chiude il calciomercato, sentiamo il nostro Matteo Curti con le ultimissime! GTA6 sta per uscire e le persone stanno già impazzendo. Alle 11.00 come ogni 1' settembre parte il treno per Hogwarts.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
