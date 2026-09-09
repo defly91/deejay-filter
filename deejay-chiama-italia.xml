@@ -5,7 +5,7 @@
     <link>https://www.deejay.it/programmi/deejay-chiama-italia/</link>
     <description><![CDATA[Il meglio di Deejay Chiama Italia. Puoi seguire Linus e Nicola con Deejay Chiama Italia ogni giorno dalle 10 alle 12 contemporaneamente in radio, su deejay.it e sul tuo dispositivo mobile.]]></description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:21:47 +0000</lastBuildDate>
     <itunes:author><![CDATA[Radio Deejay]]></itunes:author>
     <itunes:owner>
       <itunes:name><![CDATA[Radio Deejay]]></itunes:name>
@@ -15,6 +15,22 @@
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title><![CDATA[Puntata del 09/09/2026]]></title>
+      <description><![CDATA[Il ficus di Linus, dopo 40 anni, ci ha lasciato. Grazie alle abili mani di Matteo è diventato un'installazione artistica. 70 anni fa Elvis debuttava in tv facendo andare in visibilio tutti gli adolescenti.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[Il ficus di Linus, dopo 40 anni, ci ha lasciato. Grazie alle abili mani di Matteo è diventato un'installazione artistica. 70 anni fa Elvis debuttava in tv facendo andare in visibilio tutti gli adolescenti.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <pubDate>Wed, 09 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/90ca89fe-e1ae-4dff-9560-b4c000bb65d6/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" length="88105598" type="audio/mpeg" />
+      <guid isPermaLink="false"><![CDATA[https://www.deejay.it/programmi/deejay-chiama-italia/puntate/deejay-chiama-italia-del-09-09-2026/]]></guid>
+      <itunes:duration>5504</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Radio Deejay</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/image.jpg?t=1644919652&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/90ca89fe-e1ae-4dff-9560-b4c000bb65d6/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/deejay-chiama-italia/puntata-del-09-09-2026/embed?media=Audio" />
+      </media:content>
+    </item>
     <item>
       <title><![CDATA[Puntata del 08/09/2026]]></title>
       <description><![CDATA[Linus e Nicola commentano la coppa vinta da Kimi Antonelli a Monza ideata da un duo di artisti italiani. Lo sapevate che Van Gogh non firmava le sue opere che considerava troppo brutte?<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>

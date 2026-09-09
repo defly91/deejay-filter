@@ -5,7 +5,7 @@
     <link>https://www.deejay.it/programmi/il-volo-del-mattino/</link>
     <description><![CDATA[Fabio Volo ti aspetta in diretta da lunedì a venerdì alle 9. Solo su Radio Deejay.]]></description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:18:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:21:47 +0000</lastBuildDate>
     <itunes:author><![CDATA[Radio Deejay]]></itunes:author>
     <itunes:owner>
       <itunes:name><![CDATA[Radio Deejay]]></itunes:name>
@@ -15,6 +15,22 @@
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title><![CDATA[Puntata del 09/09/2026]]></title>
+      <description><![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/01821ba4-b896-495c-bd4f-ae3d00a7c45d/6efcbdc6-8785-4e4e-944f-b4c00088a11e/audio.mp3?utm_source=Podcast&amp;in_playlist=5e153015-3c8c-423b-8593-ae3d00a7c474" length="44511822" type="audio/mpeg" />
+      <guid isPermaLink="false"><![CDATA[https://www.deejay.it/programmi/il-volo-del-mattino/puntate/il-volo-del-mattino-del-09-09-2026/]]></guid>
+      <itunes:duration>2780</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Radio Deejay</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/01821ba4-b896-495c-bd4f-ae3d00a7c45d/5e153015-3c8c-423b-8593-ae3d00a7c474/image.jpg?t=1644919853&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/01821ba4-b896-495c-bd4f-ae3d00a7c45d/6efcbdc6-8785-4e4e-944f-b4c00088a11e/audio.mp3?utm_source=Podcast&amp;in_playlist=5e153015-3c8c-423b-8593-ae3d00a7c474" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/il-volo-del-mattino/puntata-del-09-09-2026/embed?media=Audio" />
+      </media:content>
+    </item>
     <item>
       <title><![CDATA[Puntata del 08/09/2026]]></title>
       <description><![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
