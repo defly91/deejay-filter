@@ -5,7 +5,7 @@
     <link>https://www.deejay.it/programmi/deejay-chiama-italia/</link>
     <description><![CDATA[Il meglio di Deejay Chiama Italia. Puoi seguire Linus e Nicola con Deejay Chiama Italia ogni giorno dalle 10 alle 12 contemporaneamente in radio, su deejay.it e sul tuo dispositivo mobile.]]></description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:12:55 +0000</lastBuildDate>
     <itunes:author><![CDATA[Radio Deejay]]></itunes:author>
     <itunes:owner>
       <itunes:name><![CDATA[Radio Deejay]]></itunes:name>
@@ -15,6 +15,22 @@
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title><![CDATA[Puntata del 11/09/2026]]></title>
+      <description><![CDATA[L'anniversario delle Torri Gemelle, dove eravate? Il kefir nel nuovo paniere degli italiani. Aldo Rock e il suo ricordo dell'11 settembre.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[L'anniversario delle Torri Gemelle, dove eravate? Il kefir nel nuovo paniere degli italiani. Aldo Rock e il suo ricordo dell'11 settembre.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/f59ee0e1-f442-4967-81bf-b4c200ba155f/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" length="87486182" type="audio/mpeg" />
+      <guid isPermaLink="false"><![CDATA[https://www.deejay.it/programmi/deejay-chiama-italia/puntate/deejay-chiama-italia-del-11-09-2026/]]></guid>
+      <itunes:duration>5465</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Radio Deejay</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/image.jpg?t=1644919652&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/f59ee0e1-f442-4967-81bf-b4c200ba155f/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/deejay-chiama-italia/puntata-del-11-09-2026/embed?media=Audio" />
+      </media:content>
+    </item>
     <item>
       <title><![CDATA[Puntata del 10/09/2026]]></title>
       <description><![CDATA[<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
