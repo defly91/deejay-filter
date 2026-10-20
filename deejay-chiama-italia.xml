@@ -5,7 +5,7 @@
     <link>https://www.deejay.it/programmi/deejay-chiama-italia/</link>
     <description><![CDATA[Il meglio di Deejay Chiama Italia. Puoi seguire Linus e Nicola con Deejay Chiama Italia ogni giorno dalle 10 alle 12 contemporaneamente in radio, su deejay.it e sul tuo dispositivo mobile.]]></description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:04:31 +0000</lastBuildDate>
     <itunes:author><![CDATA[Radio Deejay]]></itunes:author>
     <itunes:owner>
       <itunes:name><![CDATA[Radio Deejay]]></itunes:name>
@@ -15,6 +15,22 @@
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title><![CDATA[Puntata del 20/10/2026]]></title>
+      <description><![CDATA[Conoscete la respirazione dei Navy Seals? A New York la cerimonia dell'anello, LeBron arriva in elicottero da Philadelphia. Al festival del cinema di Roma presentato il film su Sylvester Stallone.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[Conoscete la respirazione dei Navy Seals? A New York la cerimonia dell'anello, LeBron arriva in elicottero da Philadelphia. Al festival del cinema di Roma presentato il film su Sylvester Stallone.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/8282edce-9116-4efe-bae8-b4e900bce34a/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" length="86411191" type="audio/mpeg" />
+      <guid isPermaLink="false"><![CDATA[https://www.deejay.it/programmi/deejay-chiama-italia/puntate/deejay-chiama-italia-del-20-10-2026/]]></guid>
+      <itunes:duration>5398</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Radio Deejay</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/image.jpg?t=1644919652&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/8282edce-9116-4efe-bae8-b4e900bce34a/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/deejay-chiama-italia/puntata-del-20-10-2026/embed?media=Audio" />
+      </media:content>
+    </item>
     <item>
       <title><![CDATA[Puntata del 19/10/2026]]></title>
       <description><![CDATA[Le proteste che stanno scuotendo tutta l'Europa e ora anche l'Italia. Vasco Rossi è caduto in bici e si è fatto male. Antonelli supera Sinner su Instagram! Ospite in studio Milena Gabanelli.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
