@@ -5,7 +5,7 @@
     <link>https://www.deejay.it/programmi/deejay-chiama-italia/</link>
     <description><![CDATA[Il meglio di Deejay Chiama Italia. Puoi seguire Linus e Nicola con Deejay Chiama Italia ogni giorno dalle 10 alle 12 contemporaneamente in radio, su deejay.it e sul tuo dispositivo mobile.]]></description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:49:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:04:24 +0000</lastBuildDate>
     <itunes:author><![CDATA[Radio Deejay]]></itunes:author>
     <itunes:owner>
       <itunes:name><![CDATA[Radio Deejay]]></itunes:name>
@@ -15,6 +15,22 @@
     <itunes:category text="News" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title><![CDATA[Puntata del 05/11/2026]]></title>
+      <description><![CDATA[Ospiti in studio il regista e sceneggiatore Alessandro Carlone che ci presenta il suo nuovo film Il Gatto Col Cappello e Gianna Nannini.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
+      <content:encoded><![CDATA[Ospiti in studio il regista e sceneggiatore Alessandro Carlone che ci presenta il suo nuovo film Il Gatto Col Cappello e Gianna Nannini.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></content:encoded>
+      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+      <enclosure url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/2c856365-d7ab-47b8-9f1e-b4f900bc22ad/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" length="89469399" type="audio/mpeg" />
+      <guid isPermaLink="false"><![CDATA[https://www.deejay.it/programmi/deejay-chiama-italia/puntate/deejay-chiama-italia-del-05-11-2026/]]></guid>
+      <itunes:duration>5589</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:author>Radio Deejay</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/7547296f-de34-47c8-817f-ae3d00a6db9f/image.jpg?t=1644919652&amp;size=Large" />
+      <media:content url="https://traffic.omny.fm/d/clips/60311b15-274a-4e3f-8ba9-ac3000834f37/00f0707e-6a46-450e-9c24-ae3d00a6db96/2c856365-d7ab-47b8-9f1e-b4f900bc22ad/audio.mp3?utm_source=Podcast&amp;in_playlist=7547296f-de34-47c8-817f-ae3d00a6db9f" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/deejay-chiama-italia/puntata-del-05-11-2026/embed?media=Audio" />
+      </media:content>
+    </item>
     <item>
       <title><![CDATA[Puntata del 04/11/2026]]></title>
       <description><![CDATA[Con Nicola in diretta da Roma e Linus di ritorno dalla maratona di New York! Francesco Lancia ci racconta Lupi di Via Massena alla Fabbrica del Vapore di Milano. Ospite in studio con il suo nuovo libro Donato Carrisi.<p>See <a href="https://omnystudio.com/listener">omnystudio.com/listener</a> for privacy information.</p>]]></description>
